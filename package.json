@@ -12,5 +12,8 @@
     "github"
   ],
   "author": "yangbing007",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@yangbing007:registry": "https://npm.pkg.github.com/"
+  }
 }
