@@ -1,0 +1,16 @@
+{
+  "name": "@yangbing007/learn-github-package",
+  "version": "1.0.0",
+  "description": "学习构建及发行npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "github"
+  ],
+  "author": "yangbing007",
+  "license": "MIT"
+}
