@@ -1,5 +1,5 @@
 {
-  "name": "@yangbing007/learn-github-package",
+  "name": "@john-lone/learn-github-package",
   "version": "1.0.0",
   "description": "学习构建及发行npm包",
   "main": "index.js",
@@ -11,9 +11,6 @@
     "package",
     "github"
   ],
-  "author": "yangbing007",
-  "license": "MIT",
-  "publishConfig": {
-    "@yangbing007:registry": "https://npm.pkg.github.com/"
-  }
+  "author": "john-lone",
+  "license": "MIT"
 }
